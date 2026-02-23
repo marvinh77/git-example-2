@@ -1,7 +1,7 @@
 Round 1
-Papier
+loss
 Round 2
-Stein
+same
 Round 3
-Schere
+loss
 🏁
