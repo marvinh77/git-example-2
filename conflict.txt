@@ -1,7 +1,7 @@
 Round 1
-
+Papier
 Round 2
-
+Stein
 Round 3
-
+Schere
 🏁
